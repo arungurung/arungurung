@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arungurung
-- 👀 I’m interested in Web development. CSS is magic!
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in Web development & lifehacks tools.
+- 🌱 I’m currently learning to code in nvim.
 - 💞️ I’m looking to collaborate on ReactNative
 - 📫 How to reach me arungurung2215@gmail.com
 
