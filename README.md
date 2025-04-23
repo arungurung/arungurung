@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arungurung&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://monkeytype.com/profile/xangyo">
-        <img src="https://raw.githubusercontent.com/arungurung/arungurung/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+        <img src="https://raw.githubusercontent.com/arungurung/arungurung/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
 </a>
 
 <!---
